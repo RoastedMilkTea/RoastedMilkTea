@@ -1,6 +1,6 @@
 <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE2MTAxMTgsIm5iZiI6MTcyMTYwOTgxOCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzIyVDAwNTY1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3MTQxZjU0ZjNjYTJhMWEzZWNkZmFlZjUwNDA4MGZmNDQzODFmNmZiZjQzZGVkODZlZGMwODQ2ZGIxZDNiMWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AlzCcnQUYVdYsJqWe1VNsmNi-JhPGs9Dq07uW0T9o6w" alt="Banner" width="100%" height="30%">
 <h1 align="center">Hey! I'm Jessie Zhou</h1>
-<h3 align = "center"> An hardworking and passionate university student </h3>
+<h3 align = "center"> An adventurer and avid learner </h3>
 <img align = "right" alt = "Bird coding" width = "400" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif">
 
 <p>&nbsp;
