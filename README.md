@@ -5,7 +5,7 @@
 <p>
   🌱 I’m currently learning how to develop and deploy <strong>Full-Stack Web Applications</strong>
 
-  📫 How to reach me **jjessie.zhou@mail.utoronto.ca**
+  📫 How to reach me: **jjessie.zhou@mail.utoronto.ca**
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
