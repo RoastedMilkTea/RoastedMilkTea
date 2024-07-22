@@ -3,7 +3,7 @@
  <img align = "right" alt = "Bird coding" width = "320" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif">
  
 <p>
-  🌱 I’m currently learning how to develop and deploy **Full-Stack Web Applications**
+  🌱 I’m currently learning how to develop and deploy Full-Stack Web Applications
 
   📫 How to reach me **jjessie.zhou@mail.utoronto.ca**
 </p>
