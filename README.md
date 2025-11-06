@@ -3,7 +3,7 @@
  <img align = "right" alt = "Bird coding" width = "300" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif">
  
 <p>
-  🌱 I’m currently learning how to develop and deploy <strong>Full-Stack Web Applications</strong>
+  🌱 I am currently a junior at the University of Toronto studying CompEng and minoring in AI and Business. I love love LOVE building  <strong>Neural Networks</strong>
 
   📫 Reach me at **jjessie.zhou@mail.utoronto.ca**
 </p>
