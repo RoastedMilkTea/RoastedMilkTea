@@ -3,7 +3,7 @@
  <img align = "right" alt = "Bird coding" width = "300" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif">
  
 <p>
-  🌱 I am currently a junior at the University of Toronto studying CompEng and minoring in AI and Business. I love love LOVE building and tuning various <strong>Neural Networks</strong> architecture! 
+  🌱 I just finished my junior year at the University of Toronto studying CompEng and minoring in AI and Business. Currently, I am on my PEY year which means I will be working internships for 16 months straight; starting my first four months at IBM! Am spending a lot of my time in logs and figuring out why a pipeline is breaking ;).
 
   📫 Reach me at **jjessie.zhou@mail.utoronto.ca**
 </p>
